@@ -1,4 +1,7 @@
-Reor for Remote Employees:
+MindLink is an AI-powered desktop note-taking application designed to enhance personal knowledge management, particularly for individuals with complex information needs. It offers features such as automatic linking of related notes, AI-driven question answering, and semantic search capabilities. Notably, MindLink operates entirely locally, ensuring data privacy and security.
+
+
+MindLink for Remote Employees:
 
 For remote employees, MindLink serves as a robust internal and personal management tool. Its local-first design ensures that sensitive information remains on personal devices, aligning with organizational data privacy policies. The AI-driven features assist in organizing and retrieving information efficiently, which is particularly beneficial in remote work environments where self-management is crucial.
 
